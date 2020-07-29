@@ -1,5 +1,5 @@
-def sum_two(n)
-    return n + 2
+def plus_two(3)
+    3 + 2
+    num
+    binding.pry
 end
-
-puts sum_two(3)
